@@ -1,0 +1,1 @@
+saat membuat tugas di session 8 ini saya mengalami kendala karena ini adalah pertamakalinya menggunakan bahasa pemrograman golang dan masih kurang mengerti mengenai konsep dasar golang  kendala yang pertama yaitu dalam membuat error handling mulai dari pendefinisian dan penanganan error, falidasi input dari pengguna dan juga menerapkan logika perhitungan yang tepat  
